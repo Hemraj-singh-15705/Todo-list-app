@@ -1,0 +1,31 @@
+div{
+    height: 80vh;
+    width: 50vw;
+    margin: auto;
+    /* background-color: rgb(56, 56, 151); */
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 15px blue;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+.heading{
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 3rem;
+} 
+
+
+.inp{
+    border-radius:.5rem;
+    height: 1.5rem;
+    width: 20vw;
+}
+
+.btn{
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
